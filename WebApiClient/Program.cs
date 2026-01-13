@@ -11,8 +11,8 @@ bool valid = true;
 
 while(valid == true)
 {
-    
-    Console.Write("github-activity (Type user name or 'exit' to quit)");
+    Console.WriteLine("(Type user name or 'exit' to quit)");
+    Console.Write("github-activity ");
 
     string user = Console.ReadLine();
 
