@@ -1,0 +1,15 @@
+/workspaces/Git-User-Activity-CLI/WebApiClient/bin/Debug/net10.0/WebApiClient
+/workspaces/Git-User-Activity-CLI/WebApiClient/bin/Debug/net10.0/WebApiClient.deps.json
+/workspaces/Git-User-Activity-CLI/WebApiClient/bin/Debug/net10.0/WebApiClient.runtimeconfig.json
+/workspaces/Git-User-Activity-CLI/WebApiClient/bin/Debug/net10.0/WebApiClient.dll
+/workspaces/Git-User-Activity-CLI/WebApiClient/bin/Debug/net10.0/WebApiClient.pdb
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.AssemblyInfoInputs.cache
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.AssemblyInfo.cs
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.csproj.CoreCompileInputs.cache
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.sourcelink.json
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.dll
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/refint/WebApiClient.dll
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.pdb
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/WebApiClient.genruntimeconfig.cache
+/workspaces/Git-User-Activity-CLI/WebApiClient/obj/Debug/net10.0/ref/WebApiClient.dll
